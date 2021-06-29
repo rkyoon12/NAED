@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This paper proposes a non-autonomous dynamical system framwork for time signal classification. We view time signal data x(t) as continuous forcing term in a non-autonomous dynamical system of hidden variable h:[0,T] \rightarrow \mathbb{R}^m$,
+This paper proposes a non-autonomous dynamical system framwork for time signal classification. We view time signal data $x(t)$ as continuous forcing term in a non-autonomous dynamical system of hidden variable $h:[0,T] \rightarrow \mathbb{R}^m$,
 $$
 \frac{d}{dt} h(t) = \Phi(h(t),x(t);\theta), \qquad h(0) = h_0.
 $$
@@ -143,6 +143,6 @@ Project Link: [https://github.com/rkyoon12/NAED-Method](https://github.com/rkyoo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjIxMTEyNjIsLTEzMTI5MTU0MzAsLT
+eyJoaXN0b3J5IjpbLTEzMTI5MTU0MzAsLTEzMTI5MTU0MzAsLT
 k4MTkwMTEzN119
 -->
