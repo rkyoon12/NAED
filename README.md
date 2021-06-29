@@ -3,14 +3,6 @@
 
 
 
-<script type="text/x-mathjax-config">
-
-</script>
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -151,5 +143,5 @@ Project Link: [https://github.com/rkyoon12/NAED-Method](https://github.com/rkyoo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTkwMTEzN119
+eyJoaXN0b3J5IjpbLTEzMTI5MTU0MzAsLTk4MTkwMTEzN119
 -->
