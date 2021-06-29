@@ -121,7 +121,7 @@ opt = tf.keras.optimizers.Adam(learning_rate=lr)
 ## Results  
 
 We presents the accuracy of classification and depict the learned vector fields. 
-[stack overflow](https://github.com/rkyoon12/NAED/blob/master/images/OSC_final.eps)
+<img src="https://github.com/rkyoon12/NAED/blob/master/images/OSC_final.eps">
 
 
 For more examples, please refer to the [paper](https://arxiv.org/pdf/2011.11096.pdf).
@@ -138,6 +138,6 @@ Project Link: [https://github.com/rkyoon12/NAED-Method](https://github.com/rkyoo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjYyMTg0OSwtMjA2MTQzMjc4LC0xMz
-EyOTE1NDMwLC0xMzEyOTE1NDMwLC05ODE5MDExMzddfQ==
+eyJoaXN0b3J5IjpbNzUwNDgyOTMwLC0yMDYxNDMyNzgsLTEzMT
+I5MTU0MzAsLTEzMTI5MTU0MzAsLTk4MTkwMTEzN119
 -->
