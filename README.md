@@ -134,7 +134,7 @@ def bigxi2(ht):
                                   ,dtype = 'float32'))
   ```
 
-### 3. Dictionary choice. 
+### 3. Optimization
 
 This model is trained using the gradient-based method "ADAM" with the constant learning rate. Depending on your problem, change learning rate and optimizer in keras. 
 
