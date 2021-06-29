@@ -4,24 +4,7 @@
 
 
 <script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-    TeX: {
-      equationNumbers: {
-        autoNumber: "AMS"
-      }
-    },
-    tex2jax: {
-    inlineMath: [ ['$', '$'] ],
-    displayMath: [ ['$$', '$$'] ],
-    processEscapes: true,
-  }
-});
-MathJax.Hub.Register.MessageHook("Math Processing Error",function (message) {
-	  alert("Math Processing Error: "+message[1]);
-	});
-MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
-	  alert("Math Processing Error: "+message[1]);
-	});
+
 </script>
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
@@ -167,3 +150,6 @@ Ryeongkyung Yoon - rkyoon@math.utah.edu
 Project Link: [https://github.com/rkyoon12/NAED-Method](https://github.com/rkyoon12/NAED-Method)
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk4MTkwMTEzN119
+-->
