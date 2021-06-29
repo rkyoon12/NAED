@@ -1,4 +1,4 @@
-<!-- ./_includes/mathjax_support -->  <script type="text/x-mathjax-config">  MathJax.Hub.Config({  TeX:  {  equationNumbers:  {  autoNumber:  "AMS"  }  },  tex2jax:  {  inlineMath:  [  ['$','$'],  ['\(',  '\)']  ],  displayMath:  [  ['$$','$$']  ],  processEscapes:  true,  }  });  </script>  <script type="text/javascript"  src="[http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML](http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML)">  </script>
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -139,6 +139,6 @@ Project Link: [https://github.com/rkyoon12/NAED-Method](https://github.com/rkyoo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjgwOTU5MywtMTMxMjkxNTQzMCwtMT
+eyJoaXN0b3J5IjpbLTIwNjE0MzI3OCwtMTMxMjkxNTQzMCwtMT
 MxMjkxNTQzMCwtOTgxOTAxMTM3XX0=
 -->
