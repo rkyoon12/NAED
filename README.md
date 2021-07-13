@@ -120,6 +120,7 @@ opt = tf.keras.optimizers.Adam(learning_rate=lr)
 We presents the accuracy of classification and depict the learned vector fields. 
 ![OSC_final](https://user-images.githubusercontent.com/35155480/125504060-f261f77a-819f-4dd4-807a-764580da004e.png)
 
+This is plotting the learned vector field of hidden variable h. The trajectories are the solution to the forced ODE. Note that the terminal position will be used to make a predcition. And the domain is partitioned by the corresponding colored sections of classes. As shown is four subplots, the termial stages of trajectories are matching with the underlying color. 
 
 For more examples, please refer to the [paper](https://arxiv.org/pdf/2011.11096.pdf).
 
