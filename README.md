@@ -37,7 +37,7 @@ Then the solution at the final time T is used to make a class prediction via
 </p>
 
 
-* Based on the Equation discovery method, the vector field $\Phi$ is defined by Dictionary elements. 
+* Based on the Equation discovery method, the vector field \Phi is defined by Dictionary elements. 
 * Using the adjoint method, compute the gradients of objective by solving alternative adjoint equation. 
 * Applying the stability theory, we analyze the stability of classifier under the noise in the given data. 
 * Benchmark SINDy algorithm, we thresholding the coefficients by cutoff value to prevent overfitting.
@@ -132,7 +132,7 @@ For more examples, please refer to the [paper](https://arxiv.org/pdf/2011.11096.
 ## Contact
 Ryeongkyung Yoon - rkyoon@math.utah.edu
 
-Project Link: [https://github.com/rkyoon12/NAED-Method](https://github.com/rkyoon12/NAED-Method)
+Project Link: [https://github.com/rkyoon12/NAED](https://github.com/rkyoon12/NAED)
 
 
 <!--stackedit_data:
