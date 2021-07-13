@@ -121,7 +121,7 @@ opt = tf.keras.optimizers.Adam(learning_rate=lr)
 ## Results  
 
 We presents the accuracy of classification and depict the learned vector fields. 
-<img src="https://github.com/rkyoon12/NAED/blob/master/images/OSC_final.eps">
+![OSC_final](https://user-images.githubusercontent.com/35155480/125504060-f261f77a-819f-4dd4-807a-764580da004e.png)
 
 
 For more examples, please refer to the [paper](https://arxiv.org/pdf/2011.11096.pdf).
