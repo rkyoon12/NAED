@@ -42,8 +42,13 @@ Then the solution at the final time T is used to make a class prediction via
 * Applying the stability theory, we analyze the stability of classifier under the noise in the given data. 
 * Benchmark SINDy algorithm, we thresholding the coefficients by cutoff value to prevent overfitting.
 
-Tensorflow is required to run the code. 
 
+## requirements
+* Tensorflow is required to run the code. 
+* Install the tensorflow-scientific for solving ODEs
+  ```sh
+ pip install tensorflow-scientific
+  ```
 <!-- Usage Example -->
 ## Usage Example
 Explore the example which shows how this code run for time-signal classification. 
