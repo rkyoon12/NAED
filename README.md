@@ -25,6 +25,8 @@
 ## About The Project
 
 This paper proposes a non-autonomous dynamical system framwork for time signal classification. We view time signal data $x(t)$ as continuous forcing term in a non-autonomous dynamical system of hidden variable h,
+
+
 ![main_model](https://user-images.githubusercontent.com/35155480/125505530-5e31710b-433b-469c-8a99-17168c18f624.gif)
 
 Then the solution at the final time T is used to make a class prediction via 
