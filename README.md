@@ -106,7 +106,7 @@ def bigxi2(ht):
 
 The goal of NAED method is training all parameters in model, i.e. beta,B,A and b. We recommend to initialize all parameters by satisfying the theorem 3.1 in paper, which guarantee the existence of the solution to the dynamical system.
 
- ```
+ ```sh
  # d : number of dictionary
  # m : dimension of h (hidden variable)
  # n : dimension of x (sequential data)
