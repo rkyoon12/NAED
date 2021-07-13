@@ -77,7 +77,7 @@ In the NAED model, the right-hand side of dynamical system is given by ![ode](ht
 This shows how to customize the dictionary in the main code. 
 * Polynomial dictionary
 
- Polynomial dictionary consists of all possible polynomials of h with dimension m upto k-th order. For instance, m = 2, k= 1 then, then dictionary consists of  [1,h_1,h_2]. In the code [poly21](https://github.com/rkyoon12/NAED/blob/master/Main/poly21.py), you can change both dimension of $h$ and maximum degree of polynomials.
+ Polynomial dictionary consists of all possible polynomials of h with dimension m upto k-th order. For instance, m = 2, k= 1 then, then dictionary consists of  [1,h_1,h_2]. In the code [poly21](https://github.com/rkyoon12/NAED/blob/master/Main/poly21.py), you can change both dimension of h and maximum degree of polynomials.
 
   ```sh
   # m : dimension of hidden variables
