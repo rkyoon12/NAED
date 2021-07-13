@@ -46,9 +46,11 @@ Then the solution at the final time T is used to make a class prediction via
 ## requirements
 * Tensorflow is required to run the code. 
 * Install the tensorflow-scientific for solving ODEs
-  ```sh
+
+ ```
  pip install tensorflow-scientific
-  ```
+ ```
+ 
 <!-- Usage Example -->
 ## Usage Example
 Explore the example which shows how this code run for time-signal classification. 
