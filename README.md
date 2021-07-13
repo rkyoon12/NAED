@@ -37,7 +37,7 @@ Then the solution at the final time T is used to make a class prediction via
 </p>
 
 
-* Based on the Equation discovery method, the vector field \Phi is defined by Dictionary elements. 
+* Based on the Equation discovery method, the vector field ![ode](https://user-images.githubusercontent.com/35155480/125507030-04282eab-5445-4e98-a800-07c227d711cf.gif) is defined by Dictionary elements. 
 * Using the adjoint method, compute the gradients of objective by solving alternative adjoint equation. 
 * Applying the stability theory, we analyze the stability of classifier under the noise in the given data. 
 * Benchmark SINDy algorithm, we thresholding the coefficients by cutoff value to prevent overfitting.
