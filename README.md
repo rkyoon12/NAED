@@ -4,7 +4,7 @@
 <br />
 <p align="center">
  
-  
+   
 
   <h3 align="center">A non-autonomous equation discovery method for time signal classification</h3>
 
@@ -24,7 +24,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This paper proposes a non-autonomous dynamical system framwork for time signal classification. We view time signal data $x(t)$ as continuous forcing term in a non-autonomous dynamical system of hidden variable $h:[0,T] \rightarrow \mathbb{R}^m$,
+This paper proposes a non-autonomous dynamical system framwork for time signal classification. We view time signal data $x(t)$ as continuous forcing term in a non-autonomous dynamical system of hidden variable - <img src="https://latex.codecogs.com/gif.latex?h:[0,T] \rightarrow \mathbb{R}^m, " /> 
+
+
 $$
 \frac{d}{dt} h(t) = \Phi(h(t),x(t);\theta), \qquad h(0) = h_0.
 $$
