@@ -43,9 +43,10 @@ Then the solution at the final time T is used to make a class prediction via
 * Benchmark SINDy algorithm, we thresholding the coefficients by cutoff value to prevent overfitting.
 
 
-## requirements
+## Requirements
 * Tensorflow is required to run the code. 
-* Install the tensorflow-scientific for solving ODEs
+* Install the tensorflow-scientific for solving ODEs. 
+  ( this package installation is working under the python version 3.5,3.6 and 3.7. If you are using upper version, please downgrade python first.)
 
  ```
  pip install tensorflow-scientific
