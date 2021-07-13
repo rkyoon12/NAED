@@ -31,9 +31,10 @@ This paper proposes a non-autonomous dynamical system framwork for time signal c
 </p>
 
 Then the solution at the final time T is used to make a class prediction via 
-$$
-\hat{y} = \sigma(Ah(T) + b).
-$$
+
+<p align= "center">
+ <img src = https://user-images.githubusercontent.com/35155480/125506036-17dadbda-bd74-4060-a501-2b1d5706ebd4.gif>
+</p>
 
 
 * Based on the Equation discovery method, the vector field $\Phi$ is defined by Dictionary elements. 
