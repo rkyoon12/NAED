@@ -104,7 +104,16 @@ def bigxi2(ht):
 
 ### 3. Optimization
 
-This model is trained using the gradient-based method "ADAM" with the constant learning rate. Depending on your problem, change learning rate and optimizer in keras. 
+The goal of NAED method is training all parameters in model, i.e. beta,B,A and b. We recommend to initialize all parameters by satisfying the theorem 3.1 in paper, which guarantee the existence of the solution to the dynamical system.
+
+ ```
+beta = tf.Variable(tf.random.uniform(minval=-1, maxval=1,shape = [d, m]), dtype='float32')
+B = tf.Variable(tf.random.uniform(minval=-1, maxval=1,shape = [n, m]), dtype='float32')
+A = tf.Variable(tf.random.uniform(minval=-1, maxval=1,shape = [m, n_classes]), dtype='float32')
+b = tf.Variable(tf.random.uniform(minval=0, maxval=1,shape = [1, n_classes]), dtype='float32')
+ ```
+
+Then it is trained using the gradient-based method "ADAM" with the constant learning rate. Depending on your problem, change learning rate and optimizer in keras. 
 
  ```
 lr = 0.01
