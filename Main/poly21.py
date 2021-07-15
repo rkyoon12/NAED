@@ -331,7 +331,7 @@ opt = tf.keras.optimizers.Adam(learning_rate=lr)
 # In[27]:
 
 
-n_batch = 8000
+n_batch = 800
 n_epoch = 300
 
 Loss = [] 
