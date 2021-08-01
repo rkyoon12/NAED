@@ -29,7 +29,7 @@ This paper proposes a non-autonomous dynamical system framwork for time signal c
 
 
 <p align= "center">
- <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
  <img src = https://user-images.githubusercontent.com/35155480/125505530-5e31710b-433b-469c-8a99-17168c18f624.gif>
 </p>
 
