@@ -71,6 +71,8 @@ Then the class will be assigned depending on the position of solution (either po
 
 In the NAED model, the right-hand side of dynamical system is given by ![ode](https://user-images.githubusercontent.com/35155480/125507030-04282eab-5445-4e98-a800-07c227d711cf.gif). Here we can pre-specify the entries of dictionary. We tested NAED model using two different dictionaries;  polynomials and Fouriers. The examples of dictionary is described in the document [paper](https://arxiv.org/pdf/2011.11096.pdf).
 
+If you have own datasets, input(X) should be written as the tensor of the shape ( n_batch , length_sequence, dimension_input). And the lable(y) should be transformed to the form of  "one-hot" so  that  its dimension must be (n_batch, n_classes).
+
 
 ### 
 
